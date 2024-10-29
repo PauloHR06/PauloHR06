@@ -13,20 +13,21 @@
 
 </br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="left">
+
+<p align="right">
+  I am a Software Engineering student with <br> a deep passion for creating technology-driven<br> solutions and a relentless pursuit of innovation.
+</p>
 
 <div >
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img align="center" src="https://img.shields.io/badge/Python-005C84?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img align="right" src="https://img.shields.io/badge/Python-005C84?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" />
 
 </br>
 
-<p align="left">
-  I am a Software Engineering student with a deep passion for creating technology-driven solutions and a relentless pursuit of innovation.
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" />
 
