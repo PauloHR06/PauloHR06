@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Paulo+Henrique+Ribeiro;I'm+18+years+old;I'm+from+S%C3%A3o+Paulo+%2C+SP+-+Brazil;I'm+a+Software+Engineer+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Paulo+Henrique+Ribeiro;I'm+19+years+old;I'm+from+S%C3%A3o+Paulo+%2C+SP+-+Brazil;I'm+a+Software+Engineer+Student" alt="Typing SVG" /></a>
 
 </br>
 
@@ -11,12 +11,10 @@
 
 ---
 
-</br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="left">
 
-<p align="right">
-  I am a Software Engineering student with <br> a deep passion for creating technology-driven<br> solutions and a relentless pursuit of innovation.
+<p align="left">
+  I am a Software Engineering student with a deep passion for creating<br> technology-driven solutions and a relentless pursuit of innovation.
 </p>
 
 <div >
@@ -27,7 +25,3 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" />
-
-</br>
-
-
